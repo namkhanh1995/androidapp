@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="scan_activity">Scan</string>
+    <string name="waveStrength_activity">Wave Strength</string>
+        <string name="dialog_name">AlertDialog</string>
+        <string name="dialog_message">Welcome to Alert Dialog</string>
+        <string name="dialog_title">Javatpoint Alert Dialog</string>
+</resources>
